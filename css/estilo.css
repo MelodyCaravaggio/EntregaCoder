@@ -218,4 +218,12 @@ footer h4 i {
   opacity: 1;
   border: solid 2 white;
 }
+@media only screen and (max-width: 480px) {
+  body{
+    background-color:#4a205b;
+}
+.portada {
+  display: none;
+}
+}
 
